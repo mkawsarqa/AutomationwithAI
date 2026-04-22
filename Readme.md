@@ -15,10 +15,10 @@ Tools used: VS Code,
 
 Goal: Develop a QA framework that works with natural laguage which can execute an end to end workflow and auto update the github repo.
 
-Architechture High Level Descriptions:\
-1. Able to take Natural Language Instructions using any appropriate LLM and MCP Servers. \
-2. AI Orchestration using GitHub Copilot/ Claude agent.\ 
-3. Playwright specialized agents (Planner, Generator, Healer)\
+Architechture High Level Descriptions:
+1. Able to take Natural Language Instructions using any appropriate LLM and MCP Servers. 
+2. AI Orchestration using GitHub Copilot/ Claude agent. 
+3. Playwright specialized agents (Planner, Generator, Healer).
 4. End to end promot will be provided using either txt or md file
 
 Agents, MCP servers, LLM and their roles:
