@@ -11,8 +11,6 @@ git config --global user.email "youremail@email.com"
 
 ***** Project Description *******
 
-Tools used: VS Code, 
-
 Goal: Develop a QA framework that works with natural laguage which can execute an end to end workflow and auto update the github repo.
 
 Architechture High Level Descriptions:
