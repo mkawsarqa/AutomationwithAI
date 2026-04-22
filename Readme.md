@@ -6,5 +6,5 @@ A new branch is created as KawsarM and all the codes will be pushed to this bran
 
 This project was initiated through visual studio code and global configuration also completed from VS Code terminal using the below commands:
 
-git config --global user.name " First Name Last Name"
+git config --global user.name " First Name Last Name"\
 git config --global user.email "youremail@email.com"
