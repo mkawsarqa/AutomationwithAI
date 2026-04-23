@@ -18,7 +18,7 @@ Expected output:
 Step 2: Create Test Plan
 
 Prompt:
-Act as a Senior Software Development Engineer at Test with 8 years experience. Based on the use story named "user-story-101-e2e-checkout.md" you just reviewed, use the playwright-test-planner aagent to:
+Based on the user story named "user-story-101-e2e-checkout.md" you just reviewed, use the playwright-test-planner aagent to:
 
 1. Read the application URL and test credentials from the user story file
 2. Explore the application and understand all the workflows mentioned in the acceptance criteria
