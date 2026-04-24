@@ -1,7 +1,7 @@
 #  E2E checkout process QA Workflow with prompt in Natural Language
 
 ## Workflow Overview
-The below prompt walks you through a complete 7-step QA workflow using MCP servers and AI agents to go from reading user story to commited automated test scripts into the github account.
+The below prompt is for the first 2 setps of a complete 7-step QA workflow using MCP servers and AI agents to go from reading user story 
 
 Step 1: Read User Story
 

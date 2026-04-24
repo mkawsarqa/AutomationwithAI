@@ -70,7 +70,8 @@ https://www.saucedemo.com
 ## Definition of Done
 - [x] All acceptance criteria have test cases
 - [x] Manual exploratory testing completed
-- [x] Automated test scripts created and passing
+- [x] Screenshot taken during manual exploratory testing and saved
 - [x] Test results documented
+- [x] Traceability Matrix develed in a tabluar form
 - [x] Bugs logged for any failures
-- [x] Code committed to repository
+- [x] Test execution history is documented
