@@ -1,0 +1,25 @@
+{
+  "name": "automationwithai",
+  "version": "1.0.0",
+  "description": "This file was created in the local",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkawsarqa/AutomationwithAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mkawsarqa/AutomationwithAI/issues"
+  },
+  "homepage": "https://github.com/mkawsarqa/AutomationwithAI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
